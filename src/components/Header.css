@@ -1,0 +1,14 @@
+nav {
+    color: #FFFF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background:linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
